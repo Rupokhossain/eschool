@@ -1,0 +1,76 @@
+/*common start*/
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000;
+}
+/*common end*/
+/*header start*/
+header{ 
+	padding: 5px 0;
+	border-bottom: 1px solid black;
+	background-color: #F0FFF0;;
+}
+.c_nav{}
+.logo{}
+.menu ul li a{
+	padding: 0 25px !important;
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000 !important;
+	line-height: 24px;
+}
+.btn_signin{
+	width: 105px;
+	height: 45px;
+	font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+}
+.btn_signin:hover{
+	background-color: #FD511A;
+	color: #FFFFFF;
+}
+.btn_common{
+	background-color: #21B573;
+    border-radius: 33px;
+    color: #FFFFFF;
+}
+
+/*header end*/
+/*banner start*/
+.banner{
+	padding: 60px 0 80px;
+	background-color: #F0FFF0;
+}
+.b_text{}
+.b_light{
+	line-height: 24px;
+    color: #FD511A;
+}
+.b_text h1{
+	margin: 10px 0 20px;
+	font-weight: 700;
+    font-size: 48px;
+    line-height: 70px
+}
+.b_text h1 span{
+	color: #21B573;;
+}
+.b_ptext{
+	line-height: 36px;;
+}
+.btn_link{
+	margin-top: 15px;
+	width: 150px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn_link:hover{
+	background-color: #FD511A;
+	color: #FFFFFF;
+}
+.b_img{}
+/*banner end*/
